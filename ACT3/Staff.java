@@ -1,3 +1,4 @@
+package ACT3;
 public class Staff extends Person {
     private String department;
 

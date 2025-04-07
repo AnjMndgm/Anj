@@ -1,3 +1,4 @@
+package ACT2;
 // Base class: Vehicle
 
 import java.util.Scanner;
